@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CHAKIR Latifa</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 
-- 🔭 I’m currently working on **Plateforme e-learning**
+- 🔭I am currently studying at **YouCode-UM6P**
 
 - 🌱 I’m currently learning **java/spring boot**
 
